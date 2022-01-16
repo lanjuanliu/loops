@@ -5,3 +5,4 @@
 #     product=product*rem 
 #     num=num//10
 #     print("product of digit=",product)
+
